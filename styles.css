@@ -27,6 +27,18 @@ header {
     padding: 10px;
 }
 
+header button{
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    background: #4CAF50;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background 0.3s;
+}
+
+
 .contenedor-juegos {
     max-width: 1200px;
     margin: 20px auto;
